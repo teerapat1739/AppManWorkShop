@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    'id': 1,
     "label": "cat 1",
     "image": "images/1.jpg"
   },
